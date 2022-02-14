@@ -2,8 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}  
 
-}
 
 header{
     background-image: url('../img/pattern.png');
@@ -12,10 +12,9 @@ header{
     height: 103px;
     background-color: #4EA0FF;
     position: relative;
-
 }
 
-img{
+.logosvg{
     width: 200px;
     position: absolute;
     bottom: 10px;
@@ -26,7 +25,8 @@ img{
     width: 1500px;
     font-size: 30px;
     margin-top: 20px;
-    margin-left: 5px;
+    
+
 
 }
 
@@ -37,3 +37,33 @@ img{
 .testoazzurro{
     color: #3DB4E8;
 }
+
+.scrittefoto{
+    font-size: 15px;
+}
+
+article{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+#tabella{  
+    /* width: 200; */
+
+}
+
+td, th, tr {
+    /* padding: 8px; */
+    width: 20%;
+  }
+
+  .tdheader{
+      background-color: #20A9E5;
+  }
+
+  .tdbody{
+      background-color: #B1E5F2;
+  }
+
+  

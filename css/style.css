@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+header{
+    background-image: url('../img/pattern.png');
+    background-repeat: repeat;
+    width: 1920px;
+    height: 103px;
+    background-color: #4EA0FF;
+    position: relative;
+
+}
+
+img{
+    width: 200px;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;;
+}
+
+#titolo{
+    width: 1500px;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 5px;
+
+}
+
+.testogrigio{
+    color:#8F8F8F;
+}
+
+.testoazzurro{
+    color: #3DB4E8;
+}
